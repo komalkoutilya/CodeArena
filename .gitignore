@@ -3,5 +3,4 @@ Code-Arena-Initial-ppt.pptx
 Code-Arena-documentation.docx
 important_note.txt
 
-codearena_react/node_modules
-codearena_react/package-lock.json
+react_app/node_modules/
